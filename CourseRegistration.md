@@ -1,4 +1,4 @@
-**Course registration for grad students**
+# Course registration for grad students**
 
 **Time Tickets**
 
