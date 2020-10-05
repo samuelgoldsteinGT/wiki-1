@@ -1,6 +1,6 @@
-Process around attending conferences
+# Process around attending conferences
 
-Before conference
+**Before conference**
 
 All the expenses related to attending conference (including but not limited to registration fee, membership fee, poster fee, airfare, lodging, meals, etc.) will be compensated via funding resources in Georgia Tech. Basically, there are four funding resources which you need to apply to before you are eligible to receive the compensation. 
 
@@ -13,7 +13,8 @@ The third funding resource comes from school of psychology. A maximum award of $
 
 The final source of funding is the grant money that we have in lab. This funding is not limited to any amount, but the goal is to prioritize other funding resources rather than using it. There is no deadline for this funding. You do not need to report anything before the conference. All you need is your advisor’s confirmation. However, you’ll need to go through all the steps mentioned above when applying for department funding.
 
-After conference
+**After conference**
+
 Once you’re back from conference, you have 21 days to submit an “expense report” on Workday system. In this step, you’ll have to report all the expenses you made related to the conference. Note that, you will need a receipt for all of the expenses you paid (including registration fee, membership fee, poster fee, hotel, etc.) except for food. 
 
 Once you submit the expense report, you are done with the process. Don’t forget to track changes your Workday account because sometimes your request for compensation gets rejected at one stage and they never send you email regarding the problem. 
