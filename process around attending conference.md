@@ -1,6 +1,6 @@
 Process around attending conferences
 
-Before conference
+\b Before conference
 
 All the expenses related to attending conference (including but not limited to registration fee, membership fee, poster fee, airfare, lodging, meals, etc.) will be compensated via funding resources in Georgia Tech. Basically, there are four funding resources which you need to apply to before you are eligible to receive the compensation. 
 
